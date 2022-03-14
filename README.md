@@ -1,6 +1,8 @@
 # PU-OC
 This repository accompanies the paper "Improving State-of-the-Art in One-Class Classification by Leveraging Unlabeled Data".
 
+# Structure
+
 * OC models with their PU modifications can be found in `models`
 
 * Pretrained autoencoder weights can be found in `AE weights`
